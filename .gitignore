@@ -1,0 +1,4 @@
+.idea*
+/logs/example.log
+*.terraform*
+/docker/terraform/terraform.*
